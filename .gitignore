@@ -36,3 +36,8 @@ nosetests.xml
 .pydevproject
 
 *~
+
+LIBS/
+model/fin_model.marmot
+tmp_data/
+
